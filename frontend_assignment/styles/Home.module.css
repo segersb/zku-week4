@@ -12,33 +12,6 @@
     align-items: center;
 }
 
-.logs {
-    color: #A3E5BA;
-    font-weight: bold;
-    margin-top: 0;
-    line-height: 1.5;
-    font-size: 1.2rem;
-    height: 70px;
-}
-
-.button {
-    padding: 10px 16px;
-    border: 1px solid white;
-    border-radius: 5px;
-    width: 200px;
-    text-align: center;
-    cursor: pointer;
-}
-
-.button:hover {
-    background-color: rgba(0, 0, 0, 0.08);
-}
-
-.button:active {
-    position: relative;
-    top: 1px;
-}
-
 .title {
     margin: 0;
     line-height: 1.15;
